@@ -1,3 +1,5 @@
+::
+
               __       __    __
     .--.--.--|__.-----|  |--|  |--.-----.-----.-----.
     |  |  |  |  |__ --|     |  _  |  _  |     |  -__|
@@ -11,7 +13,7 @@
     wishbone.input.namedpipe
     ========================
 
-    Version: 2.1.2
+    Version: 1.0.0
 
     Receive data from a named pipe.
     -------------------------------
@@ -28,4 +30,3 @@
 
             - outbox
                |  Data coming from the outside world.
-
